@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+body{
+    margin: 15px 10px ;
+    font-family: Inter;
+}
+
+h5{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+}
+
+#employeeDetails{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 20px 0px;
+    /* margin-top: 10px; */
+}
+
+#addUser{
+    background-color: white;
+    color: #000000;
+    padding: 4px;
+    width: 100px;
+    border: none;
+    margin: 10px 0px;
+}
+
+#displaymessage{
+    margin: 20px 0px;
+    color: green;
+}
+
+#addedEmployees{
+    margin: 20px 0px;
+}
+
+#deleteUser{
+    background-color: red;
+    color: white;
+    padding: 4px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+}
+
+#employeesList{
+    margin: 20px 0px;
+    color: #FFFFFF80;
+}
+
+input{
+    border: 1px solid #FFFFFF;
+    padding-left: 10px;
+}
+
+h6{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+}
+
+#newEmployee{
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+
+}
+
+#newEmployeediv1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+    border: 1px solid #FFFFFF;
+    margin-right: 30px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
